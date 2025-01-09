@@ -5,6 +5,7 @@
 - I'm adding this from 'feature-branch'
 - Johnny here
 
+#### Each project should follow these steps & back to 2/3
 1) clone the repo
 2) create a new branch from the main, or another branch
 3) make your changes 
