@@ -1,3 +1,4 @@
+
 ## Hello World.
 ### Welcome to Git.
 
@@ -7,10 +8,10 @@
 
 > #### Each project should follow these steps & back to 2/3
 
-1) clone the repo
-2) create a new branch from the main, or another branch
-3) make your changes 
-4) push the branch to the remote repo
-5) open a pull request
-6) merge the changes
-7) pull the merged changes into your local main branch
+1) Clone the repo.
+2) Create a new branch from the main, or another branch.
+3) Make your changes. 
+4) Push the branch to the remote repo.
+5) Open a pull request.
+6) Merge the changes.
+7) Pull the merged changes into your local main branch.
